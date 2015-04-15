@@ -1,3 +1,5 @@
+# Understanding Decoration
+
 Decorator 是一個 Python 中較為進階的語法，因為較難理解故常被提出來討論。這邊提供一個簡潔的說明。
 
 假設有一名為 func 的 function 被名為 decor1 和 decor2 的二 decorator 修飾如下：
