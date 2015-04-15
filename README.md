@@ -1,3 +1,3 @@
-# (Programmer) Chang Yu-heng
+# (Programmer) @changyuheng
 
 My notes about programming.
