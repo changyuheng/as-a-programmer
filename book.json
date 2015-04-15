@@ -1,0 +1,17 @@
+{
+    "plugins": [
+        "disqus",
+        "ga",
+        "mathjax"
+    ],
+    "pluginsConfig": {
+       "disqus": {
+            "shortName": "as-a-programmer"
+        },
+        "fontconfig" : {
+        },
+        "ga": {
+            "token": "UA-44162683-3"
+        }
+    }
+}
