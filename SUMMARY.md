@@ -8,4 +8,5 @@
    * Catch Exception and Thread
 * [Python](contents/python.md)
    * [Understanding Decoration](contents/understanding_decoration.md)
+* Algorithms
 
