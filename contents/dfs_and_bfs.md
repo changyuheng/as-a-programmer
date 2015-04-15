@@ -6,7 +6,7 @@
 
 ## DFS
 
-```python3
+```python
 def dfs(graph, start, visited=None):
     if visited is None:
         visited = set()
@@ -42,7 +42,7 @@ print(repr([path for path in dfs_paths(graph, 'A', 'F')]))
 
 ## BFS
 
-```python3
+```python
 def bfs(graph, queue, visited=None):
     if visited is None:
         visited = set()
