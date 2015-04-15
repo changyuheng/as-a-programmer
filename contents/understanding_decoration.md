@@ -2,7 +2,7 @@ Decorator 是一個 Python 中較為進階的語法，因為較難理解故常�
 
 假設有一名為 func 的 function 被名為 decor1 和 decor2 的二 decorator 修飾如下：
 
-``` python
+```python
 @decor1
 @decor2
 def func(*args, **kwargs):
@@ -11,13 +11,13 @@ def func(*args, **kwargs):
 
 則當我們如下呼叫 func() 時：
 
-``` python
+```python
 func(*args, **kwargs)
 ```
 
 可以將之理解為：
 
-``` python
+```python
 decor1(decor2(func))(*args, **kwargs)
 ```
 
