@@ -1,3 +1,3 @@
-# ((Programmer) Chang Yu-heng)
+# (Programmer) Chang Yu-heng
 
 My notes about programming.
