@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Algorithms](contents/algorithms.md)
-   * [DFS and BFS](contents/dfs_and_bfs.md)
    * 小技巧
+   * [DFS and BFS](contents/dfs_and_bfs.md)
 * [Android](contents/android.md)
    * [Android Studio Environment Variables](contents/android_studio_environment_variables.md)
    * AutoCompleteTextView
