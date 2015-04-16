@@ -11,4 +11,5 @@
 * [Python](contents/python.md)
    * [Understanding Decoration](contents/understanding_decoration.md)
 * 翻譯
+   * 糟糕的程式設計師有哪些招牌特質？
 
