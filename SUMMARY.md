@@ -6,6 +6,7 @@
 * [Android](contents/android.md)
    * [Android Studio Environment Variables](contents/android_studio_environment_variables.md)
    * AutoCompleteTextView
+   * DraggableView
 * [Java](contents/java.md)
    * Class, Object and Generic
    * Catch Exception and Thread
