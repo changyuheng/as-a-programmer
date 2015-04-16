@@ -5,6 +5,7 @@
    * [DFS and BFS](contents/dfs_and_bfs.md)
 * [Android](contents/android.md)
    * [Android Studio Environment Variables](contents/android_studio_environment_variables.md)
+   * AutoCompleteTextView
 * [Java](contents/java.md)
    * Class, Object and Generic
    * Catch Exception and Thread
