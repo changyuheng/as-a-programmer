@@ -5,10 +5,10 @@
    * 演算法小技巧
    * [DFS and BFS](contents/dfs_and_bfs.md)
 * [Android](contents/android.md)
+   * ADB
    * [Android Studio Environment Variables](contents/android_studio_environment_variables.md)
    * AutoCompleteTextView
    * DraggableView
-   * ADB
 * [Java](contents/java.md)
    * Class, Object and Generic
    * Catch Exception and Thread
